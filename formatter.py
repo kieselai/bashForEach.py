@@ -1,3 +1,6 @@
+# Written by: Anthony Kiesel
+# URL: https://github.com/kieselai/bashForEach.py
+
 import sys, os, argparse, re
 
 # Local imports 
