@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+# Written by: Anthony Kiesel
+# URL: https://github.com/kieselai/bashForEach.py
+
 import argparse
 
 # Local imports 
