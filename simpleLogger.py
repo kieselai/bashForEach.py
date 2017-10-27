@@ -1,3 +1,6 @@
+# Written by: Anthony Kiesel
+# URL: https://github.com/kieselai/bashForEach.py
+
 from colorama import init, Fore, Back
 # Local imports 
 import formatter
